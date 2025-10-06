@@ -1,2 +1,1 @@
-# LoLInfoSite
-롤 정보 사이트
+# LoL(League of Legends) 정보 사이트
