@@ -1,6 +1,6 @@
 # LoL(League of Legends) 정보 사이트
 
-이 사이트는 군데에서 웹 공부를 하기 위한 Repo 입니다
+이 사이트는 군대에서 웹 공부를 하기 위한 Repo 입니다
 
 ## 환경 설정
 개발 환경 : vscode <br>
