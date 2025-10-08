@@ -1,0 +1,19 @@
+#champion-icons {
+    display: flex;
+    justify-self: center;
+    text-align: center;
+    align-items: center;
+}
+#champion-img {
+    margin-left: 20px;
+}
+
+#logo {
+    width: 5%;
+}
+header {
+    display: flex;
+    justify-self: center;
+    text-align: center;
+    align-items: center;
+}
