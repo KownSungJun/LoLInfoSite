@@ -1,6 +1,6 @@
 #champion-icons {
     display: flex;
-    justify-self: center;
+    /* justify-content: center; */
     text-align: center;
     align-items: center;
 }
@@ -13,7 +13,9 @@
 }
 header {
     display: flex;
-    justify-self: center;
+    justify-content: center;
     text-align: center;
     align-items: center;
+
+    font-size: 40px;
 }
