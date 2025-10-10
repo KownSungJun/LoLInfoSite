@@ -12,6 +12,8 @@
     "baseline-browser-mapping": "^2.8.13",
     "browserslist": "^4.26.3",
     "caniuse-lite": "^1.0.30001748",
+    "chart.js": "^4.5.0",
+    "cors": "^2.8.5",
     "ejs": "^3.1.10",
     "electron-to-chromium": "^1.5.232",
     "escalade": "^3.2.0",
@@ -22,6 +24,7 @@
     "normalize-range": "^0.1.2",
     "picocolors": "^1.1.1",
     "postcss-value-parser": "^4.2.0",
+    "react-chartjs-2": "^5.3.0",
     "source-map-js": "^1.2.1",
     "update-browserslist-db": "^1.1.3"
   },
