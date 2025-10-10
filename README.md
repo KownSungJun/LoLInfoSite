@@ -7,6 +7,7 @@
 개발 언어 : js <br>
 프레임 워크 : node.js <br>
 버전 관리 : git(bash), github <br>
+디자인 : figma
 
 ## 절차
 1. vscode, node.js, git 설치 <br>
