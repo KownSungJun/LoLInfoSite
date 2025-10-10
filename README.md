@@ -20,3 +20,8 @@ terminal을 git bash로 변경 <br>
 ### github 사용 주의 사항
 ide에서 커밋할 때 이메일 주소가 github 계정의 이메일 주소와 같이 않다면 <br>
 git commit 후 contribution 그래프에 반영이 안된다. (어제 3번 commit했는데ㅠ)
+
+### get started
+1. git clone this repository
+2. chanage directory clone repo
+3. npm install
