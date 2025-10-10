@@ -26,3 +26,14 @@ git commit 후 contribution 그래프에 반영이 안된다. (어제 3번 commi
 1. git clone this repository
 2. chanage directory clone repo
 3. npm install
+4. server 실행 -> node server.js
+5. client 실행 -> npm run dev
+
+## 실행 결과(2025.10.10)
+<img width="510" height="392" alt="image" src="https://github.com/user-attachments/assets/ef7e61f2-5b12-44d9-9dec-ff9f3a1ddc42" /> <br>
+기본적인 파일 데이터 연결 시켜줌
+
+## 해야할 일
+1. 롤 관련 데이터 크롤링
+2. 데이터 분석, 시각화 공부
+3. 웹 사이트 디자인 기획
