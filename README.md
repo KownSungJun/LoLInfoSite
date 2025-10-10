@@ -14,7 +14,7 @@
 2. vscode에서 ctrl + shift + p 하고 default 검색해서 <br>
 Terminal: Select default Profile 선택 후 <br>
 terminal을 git bash로 변경 <br>
-3. npm install 하여 내가 받았던 패키지 node_modules 올림
+3. npm install(npm i) 하여 내가 받았던 패키지 node_modules 올림
 <img width="615" height="313" alt="image" src="https://github.com/user-attachments/assets/3bc2b0ea-35b9-4188-9221-1821d9eab6aa" />
 
 ### github 사용 주의 사항
