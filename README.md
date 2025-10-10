@@ -16,3 +16,6 @@ terminal을 git bash로 변경 <br>
 3. npm install 하여 내가 받았던 패키지 node_modules 올림
 <img width="615" height="313" alt="image" src="https://github.com/user-attachments/assets/3bc2b0ea-35b9-4188-9221-1821d9eab6aa" />
 
+### github 사용 주의 사항
+ide에서 커밋할 때 이메일 주소가 github 계정의 이메일 주소와 같이 않다면 <br>
+git commit 후 contribution 그래프에 반영이 안된다. (어제 3번 commit했는데ㅠ)
