@@ -7,7 +7,7 @@
 개발 언어 : typescript <br>
 프레임 워크 : node.js <br>
 버전 관리 : git(bash), github <br>
-디자인 : figma
+디자인 : figma <br>
 데이터 처리 : python
 
 ## 절차
