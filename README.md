@@ -3,11 +3,12 @@
 이 사이트는 군대에서 웹 공부를 하기 위한 Repo 입니다
 
 ## 환경 설정
-개발 환경 : vscode <br>
-개발 언어 : js <br>
+개발 환경 : <del>vscode(아오 군대 시치)</del> codespaces <br>
+개발 언어 : typescript <br>
 프레임 워크 : node.js <br>
 버전 관리 : git(bash), github <br>
-디자인 : figma
+디자인 : figma <br>
+데이터 처리 : python
 
 ## 절차
 1. vscode, node.js, git 설치 <br>
