@@ -13,10 +13,13 @@ import {
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
 function App() {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [chartData, setChartData] = useState<any>(null);
 
   useEffect(() => {
-    fetch("https://curly-fiesta-w4vxwrpxx5h9x9w-3001.app.github.dev/api/data")
+    //날 마다 url 변경됨으로 설정해줘야 함
+    //임시 도메인임
+    fetch("https://verbose-happiness-pw9xppwr4663q57-3001.app.github.dev/api/data")
       .then((res) => res.json())
       .then((data) => {
         setChartData({
