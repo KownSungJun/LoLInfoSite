@@ -37,3 +37,4 @@ git commit 후 contribution 그래프에 반영이 안된다. (어제 3번 commi
 1. 롤 관련 데이터 크롤링
 2. 데이터 분석, 시각화 공부
 3. 웹 사이트 디자인 기획
+4. typescript, react 연동
