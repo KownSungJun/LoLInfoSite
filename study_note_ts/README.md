@@ -14,3 +14,11 @@ npm start
 ## 타입은 꼭 소문자!
 
 타입 스크립트에서는 주요 원시 타입은 모두 소문자이다!
+
+## 콜백 함수(Callback)
+
+Callback 함수는 매개변수로 함수 객체를 전달해서 호출 함수 내에서 매개변수 함수를 실행하는 것을 말한다
+
+![alt text](image.png)
+
+![alt text](image-1.png)
