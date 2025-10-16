@@ -30,8 +30,13 @@ tsc --init -> tsconfig.json 생성함 : typescript의 파일 세팅을 담당함
 "exclude" : ["ex.ts", "*.ts", "node_modules" -> 이건 디폴트로 설정되어있음] :  컴파일에 포함되지 않아야 하는 파일(폴더 지정 가능) <br>
 "include" : tsc 했을때 컴파일 할 ts 파일을 넣음 <br>
 tsc --watch(-w) : 모든 ts 파일을 컴파일하는데 감시 모드로 ts 파일에 변경점이 생기면 바로 재컴파일 하라(폴더 지정 가능) <br>
-"compilerOptions" : 컴파일 하는 방법 제어
-"lib" : 특정 라이브러리를 다운받아라
-"allowJs" : 이중 컴파일 제어
-"sourceMap" : 
-
+"compilerOptions" : 컴파일 하는 방법 제어 <br>
+"lib" : 특정 라이브러리를 다운받아라 <br>
+"allowJs" : 이중 컴파일 제어 <br>
+"sourceMap" : 디버깅 간소화 <br>
+"outDir": "./dist" : 생성된 파일을 어디에 저장할지 지정 <br>
+"rootDir" : "./src" : 출력 ts 파일 지정 <br>
+"removeComments" : ts의 모든 주석이 js에 없어짐 <br>
+"noEmit" : js파일 생성안함 <br>
+"noEmitOnError" : true : ts파일에 에러 있으면 js파일 안만듦 <br>
+"strict" : true : 
