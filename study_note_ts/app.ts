@@ -92,3 +92,5 @@ class PersonClass {
 // ES6 템플릿 문자열 : ``, ${}
 let red : string = 'Red'
 let myColor : string = `My color is ${red}.`
+
+//
