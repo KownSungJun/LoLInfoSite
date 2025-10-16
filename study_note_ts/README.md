@@ -1,3 +1,4 @@
+# TS 문법 정리
 ## 시작하기
 tsc app.ts <br>
 npm start
@@ -19,6 +20,18 @@ npm start
 
 Callback 함수는 매개변수로 함수 객체를 전달해서 호출 함수 내에서 매개변수 함수를 실행하는 것을 말한다
 
-![alt text](image.png)
+![alt text](/study_note_ts/readme_image/image.png) 
 
-![alt text](image-1.png)
+![alt text](/study_note_ts/readme_image/image-1.png)
+
+## TypeScript 컴파일러 및 구성
+tsc --init -> tsconfig.json 생성함 : typescript의 파일 세팅을 담당함 <br>
+### tsconfig.json
+"exclude" : ["ex.ts", "*.ts", "node_modules" -> 이건 디폴트로 설정되어있음] :  컴파일에 포함되지 않아야 하는 파일(폴더 지정 가능) <br>
+"include" : tsc 했을때 컴파일 할 ts 파일을 넣음 <br>
+tsc --watch(-w) : 모든 ts 파일을 컴파일하는데 감시 모드로 ts 파일에 변경점이 생기면 바로 재컴파일 하라(폴더 지정 가능) <br>
+"compilerOptions" : 컴파일 하는 방법 제어
+"lib" : 특정 라이브러리를 다운받아라
+"allowJs" : 이중 컴파일 제어
+"sourceMap" : 
+

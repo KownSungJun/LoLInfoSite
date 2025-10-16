@@ -93,4 +93,3 @@ class PersonClass {
 let red : string = 'Red'
 let myColor : string = `My color is ${red}.`
 
-//
