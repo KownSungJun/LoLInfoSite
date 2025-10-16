@@ -38,3 +38,6 @@ git commit 후 contribution 그래프에 반영이 안된다. (어제 3번 commi
 2. 데이터 분석, 시각화 공부
 3. 웹 사이트 디자인 기획
 4. typescript, react 연동
+5. python, c, java, ts, js 기본 문법 정리
+6. react, node.js 문법 정리
+7. 스레드, 비동기 정리
